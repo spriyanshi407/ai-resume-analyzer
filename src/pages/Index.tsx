@@ -189,7 +189,7 @@ const Index = () => (
     {/* Footer */}
     <footer className="border-t border-border/30 py-8 px-4">
       <div className="container mx-auto text-center text-sm text-muted-foreground">
-        © 2026 ResumeAI. Built with AI-powered intelligence.
+        © 2026 CVVibe 🔥. Built with AI-powered intelligence.. Built with AI-powered intelligence.
       </div>
     </footer>
   </div>
