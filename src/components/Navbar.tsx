@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="w-8 h-8 rounded-lg bg-primary/20 flex items-center justify-center glow-border">
             <FileText className="w-4 h-4 text-primary" />
           </div>
-          <span className="font-heading font-bold text-lg text-foreground">ResumeAI</span>
+          <span className="font-heading font-bold text-lg text-foreground"><span className="font-heading font-bold text-lg text-foreground">CVVibe 🔥</span></span>
         </Link>
 
         {/* Desktop */}
